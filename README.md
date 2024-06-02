@@ -1,2 +1,1 @@
-# Awesome-List
-React Native
+# react-native-animations
